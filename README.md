@@ -1,2 +1,2 @@
 # broca
-social network publish, management and analytics platform
+social network analytics
